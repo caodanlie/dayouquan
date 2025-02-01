@@ -1,5 +1,7 @@
 # dayouquan
 大友圈swfit开发，暂未开发后端！
+![image](https://github.com/user-attachments/assets/5904f055-c43b-494a-8f2e-f08e8594a6bd)
+
 # 大友圈 App
 
 大友圈是一款基于 SwiftUI 开发的现代化社交平台 iOS 应用，致力于为用户提供优质的社交体验。
